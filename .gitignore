@@ -58,3 +58,8 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+Sky_Shooter_AR/ProjectSettings/
+Sky_Shooter_AR/Packages/
+Sky_Shooter_AR/obj/Debug/.NETFramework,Version=v4.7.1.AssemblyAttributes.cs
+Sky_Shooter_AR/Library/
+Sky_Shooter_AR/.vscode/
